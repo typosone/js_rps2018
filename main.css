@@ -1,0 +1,37 @@
+table {
+    border-collapse: collapse;
+}
+
+th, td {
+    border: solid black 1px;
+    width: 200px;
+}
+
+td {
+    height: 200px;
+    text-align: center;
+}
+
+.hands {
+    display: none;
+}
+
+.on {
+    display: inline-block;
+}
+
+button {
+    font-size: xx-large;
+}
+
+p#message {
+    font-size: 48pt;
+}
+
+.win {
+    color: red;
+}
+
+.lose {
+    color: blue;
+}
